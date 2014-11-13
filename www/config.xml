@@ -3,13 +3,24 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloworld"
+        id        = "com.phonegap.joseph kakumba ministries"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Joseph Kakumba Ministries</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        This app is designed to connect you to Pastor Joesph Kakumba:
+
+this app will enable you connect to pastor direct 
+1. send prayer request
+2.give testimonies
+3. others
+
+
+_____________________________________
+
+developed by dancanbest
+email dancanbest@gmail.com
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
